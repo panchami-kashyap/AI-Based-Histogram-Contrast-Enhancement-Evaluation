@@ -1,1 +1,16 @@
-
+streamlit
+numpy
+pandas
+opencv-python-headless
+Pillow
+scikit-image
+scikit-learn
+matplotlib
+joblib
+catboost
+xgboost
+tensorflow
+torch
+torchvision
+transformers
+timm
