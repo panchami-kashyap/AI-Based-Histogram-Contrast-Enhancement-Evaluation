@@ -11,3 +11,7 @@ This notebook evaluates multiple Machine Learning, Deep Learning, and Transforme
 - **Transformer Models:** ViT, Swin Transformer, DeiT, and MobileViT were evaluated. **DeiT achieved the best Transformer performance with 87.67% accuracy**.
 
 Overall, **CatBoost was selected as the best-performing model with 94.33% accuracy**.
+
+### ContrastAI_Streamlit_App.ipynb
+
+This notebook implements the Streamlit-based ContrastAI frontend integrated with the trained CatBoost model. It supports five contrast enhancement techniques, image comparison, feature and histogram visualisation, and ML-based GOOD/POOR enhancement quality prediction with confidence scores.
