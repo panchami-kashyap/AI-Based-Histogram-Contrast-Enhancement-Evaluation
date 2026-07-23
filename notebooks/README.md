@@ -1,6 +1,6 @@
 # Project Notebook
 
-**histogram_contrast_enhancement.ipynb Notebook**
+## histogram_contrast_enhancement.ipynb 
 
 This notebook evaluates multiple Machine Learning, Deep Learning, and Transformer models for classifying X-ray contrast enhancement quality.
 
