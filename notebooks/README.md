@@ -1,4 +1,4 @@
-# Project Notebook
+# Project Notebooks
 
 ## histogram_contrast_enhancement.ipynb 
 
