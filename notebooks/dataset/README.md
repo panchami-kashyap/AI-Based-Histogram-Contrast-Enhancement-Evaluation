@@ -1,6 +1,5 @@
 # Dataset
 
-The X-ray dataset used in this project is approximately 2.29 GB and is therefore not included directly in this repository.
 
 **Dataset Source:** [Download the X-ray Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
