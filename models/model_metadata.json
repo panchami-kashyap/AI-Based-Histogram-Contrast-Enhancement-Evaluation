@@ -1,0 +1,24 @@
+{
+    "features": [
+        "Mean",
+        "StdDev",
+        "Entropy",
+        "PSNR",
+        "Contrast",
+        "Laplacian"
+    ],
+    "image_size": [
+        256,
+        256
+    ],
+    "label_mapping": {
+        "0": "Poor",
+        "1": "Good"
+    },
+    "label_rule": "SSIM > 0.80 = Good; SSIM <= 0.80 = Poor",
+    "model": "CatBoostClassifier",
+    "iterations": 300,
+    "learning_rate": 0.05,
+    "depth": 6,
+    "random_seed": 42
+}
